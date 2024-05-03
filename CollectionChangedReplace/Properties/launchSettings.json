@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "CollectionChangedReplace (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "CollectionChangedReplace (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
